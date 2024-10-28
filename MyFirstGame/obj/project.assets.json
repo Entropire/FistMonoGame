@@ -54,6 +54,53 @@
             "rid": "win-x86"
           }
         }
+      },
+      "Ryan.MonoGame.Framework.DesktopGL/3.7.200": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MonoGame.Framework.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MonoGame.Framework.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libSDL2-2.0.so.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libopenal.so.1": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx/native/libSDL2-2.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx"
+          },
+          "runtimes/osx/native/libopenal.1.dylib": {
+            "assetType": "native",
+            "rid": "osx"
+          },
+          "runtimes/win-x64/native/SDL2.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/soft_oal.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/SDL2.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          },
+          "runtimes/win-x86/native/soft_oal.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
       }
     }
   },
@@ -93,28 +140,53 @@
         "runtimes/win-x86/native/SDL2.dll",
         "runtimes/win-x86/native/soft_oal.dll"
       ]
+    },
+    "Ryan.MonoGame.Framework.DesktopGL/3.7.200": {
+      "sha512": "KM3rnwkwUR3d+IVd4aKpRl4Kjxpoe/vSDMpsTgYtu6MgHQdn9cRG6C3NIjHAMS0EtSllxMr4CC4hpwOmHnV1tQ==",
+      "type": "package",
+      "path": "ryan.monogame.framework.desktopgl/3.7.200",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/MonoGame.Framework.DesktopGL.targets",
+        "lib/net452/MonoGame.Framework.dll",
+        "lib/net452/MonoGame.Framework.xml",
+        "lib/netstandard2.0/MonoGame.Framework.dll",
+        "lib/netstandard2.0/MonoGame.Framework.xml",
+        "runtimes/linux-x64/native/libSDL2-2.0.so.0",
+        "runtimes/linux-x64/native/libopenal.so.1",
+        "runtimes/osx/native/libSDL2-2.0.0.dylib",
+        "runtimes/osx/native/libopenal.1.dylib",
+        "runtimes/win-x64/native/SDL2.dll",
+        "runtimes/win-x64/native/soft_oal.dll",
+        "runtimes/win-x86/native/SDL2.dll",
+        "runtimes/win-x86/native/soft_oal.dll",
+        "ryan.monogame.framework.desktopgl.3.7.200.nupkg.sha512",
+        "ryan.monogame.framework.desktopgl.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "MonoGame.Content.Builder.Task >= 3.8.1.303",
-      "MonoGame.Framework.DesktopGL >= 3.8.1.303"
+      "MonoGame.Framework.DesktopGL >= 3.8.1.303",
+      "Ryan.MonoGame.Framework.DesktopGL >= 3.7.200"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Quinten\\.nuget\\packages\\": {}
+    "C:\\Users\\QuintenD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Quinten\\Desktop\\Projects\\C#\\FistMonoGame\\MyFirstGame\\MyFirstGame\\MyFirstGame.csproj",
+      "projectUniqueName": "C:\\Users\\QuintenD\\Desktop\\FistMonoGame\\MyFirstGame\\MyFirstGame.csproj",
       "projectName": "MyFirstGame",
-      "projectPath": "C:\\Users\\Quinten\\Desktop\\Projects\\C#\\FistMonoGame\\MyFirstGame\\MyFirstGame\\MyFirstGame.csproj",
-      "packagesPath": "C:\\Users\\Quinten\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Quinten\\Desktop\\Projects\\C#\\FistMonoGame\\MyFirstGame\\MyFirstGame\\obj\\",
+      "projectPath": "C:\\Users\\QuintenD\\Desktop\\FistMonoGame\\MyFirstGame\\MyFirstGame.csproj",
+      "packagesPath": "C:\\Users\\QuintenD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\QuintenD\\Desktop\\FistMonoGame\\MyFirstGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Quinten\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\QuintenD\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -150,6 +222,10 @@
           "MonoGame.Framework.DesktopGL": {
             "target": "Package",
             "version": "[3.8.1.303, )"
+          },
+          "Ryan.MonoGame.Framework.DesktopGL": {
+            "target": "Package",
+            "version": "[3.7.200, )"
           }
         },
         "imports": [
@@ -186,7 +262,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\QuintenD\\.dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
