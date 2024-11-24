@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\FistMonoGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\projects\\c#\\fistmonogame\\myfirstgame\\handlers\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\handlers\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FistMonoGame\\MyFirstGame\\Handlers\\InputHandler.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Handlers\\InputHandler.cs",
+              "ToolTip": "D:\\Projects\\C#\\FistMonoGame\\MyFirstGame\\Handlers\\InputHandler.cs",
+              "RelativeToolTip": "MyFirstGame\\Handlers\\InputHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:26:45.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
