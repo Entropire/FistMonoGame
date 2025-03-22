@@ -1,12 +1,198 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\C#\\FistMonoGame\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Cs\\FistMonoGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\handlers\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\handlers\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\objects\\gui\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\objects\\gui\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\objects\\gui\\inputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\objects\\gui\\inputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\objects\\gui\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\objects\\gui\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\objects\\gui\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\objects\\gui\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\objects\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\objects\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\objects\\gui\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\objects\\gui\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|d:\\cs\\fistmonogame\\myfirstgame\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99182175-BB6B-4EB9-BD57-D657D1CA6819}|MyFirstGame\\MyFirstGame.csproj|solutionrelative:myfirstgame\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Program.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Program.cs",
+              "RelativeToolTip": "MyFirstGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:11:44.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\MainGame.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\MainGame.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\MainGame.cs",
+              "RelativeToolTip": "MyFirstGame\\MainGame.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:11:37.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\Button.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Objects\\Gui\\Button.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\Button.cs",
+              "RelativeToolTip": "MyFirstGame\\Objects\\Gui\\Button.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:59:21.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputField.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\InputField.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Objects\\Gui\\InputField.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\InputField.cs",
+              "RelativeToolTip": "MyFirstGame\\Objects\\Gui\\InputField.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:53:07.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Panel.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\Panel.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Objects\\Gui\\Panel.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\Panel.cs",
+              "RelativeToolTip": "MyFirstGame\\Objects\\Gui\\Panel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:59:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Label.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\Label.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Objects\\Gui\\Label.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\Label.cs",
+              "RelativeToolTip": "MyFirstGame\\Objects\\Gui\\Label.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:59:18.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\Menu.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Objects\\Gui\\Menu.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\Menu.cs",
+              "RelativeToolTip": "MyFirstGame\\Objects\\Gui\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:59:16.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\MenuItem.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Objects\\Gui\\MenuItem.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Objects\\Gui\\MenuItem.cs",
+              "RelativeToolTip": "MyFirstGame\\Objects\\Gui\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:59:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Menus\\MainMenu.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "MyFirstGame\\Menus\\MainMenu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:52:56.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Handlers\\InputHandler.cs",
+              "RelativeDocumentMoniker": "MyFirstGame\\Handlers\\InputHandler.cs",
+              "ToolTip": "D:\\Cs\\FistMonoGame\\MyFirstGame\\Handlers\\InputHandler.cs",
+              "RelativeToolTip": "MyFirstGame\\Handlers\\InputHandler.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:26:45.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
